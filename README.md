@@ -28,13 +28,13 @@ ATtiny45+BD6211Fで作ったモータードライバモジュールを作成し�
 仕様メモ
 ----
 回路図
-* [回路図](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/motor_driver_module.png)
+* ![回路図](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/motor_driver_module.png)
 
 ブレッドボードを使ったプロトタイプ
-* [写真3](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo3.jpg)
+* ![写真3](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo3.jpg)
 
 ピンアサイン
-* [写真4](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo4.jpg)
+* ![写真4](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo4.jpg)
 
 モーターを駆動する場合は、プルアップしたりコンデンサを入れておいた方が良さげかも…？
 
