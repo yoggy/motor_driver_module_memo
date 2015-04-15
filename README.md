@@ -2,8 +2,8 @@ motor_driver_module_memo
 ====
 ATtiny45+BD6211Fで作ったモータードライバモジュールを作成したときのメモ。
 
-![写真1](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo1.jpgphoto1.jpg)
-![写真2](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo1.jpgphoto2.jpg)
+![写真1](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo1.jpg)
+![写真2](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo2.jpg)
 
 
 リニア振動アクチュエータを駆動するために作成。
@@ -28,13 +28,13 @@ ATtiny45+BD6211Fで作ったモータードライバモジュールを作成し�
 仕様メモ
 ----
 回路図
-* [回路図](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo1.jpgmotor_driver_module.png)
+* [回路図](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/motor_driver_module.png)
 
 ブレッドボードを使ったプロトタイプ
-* [写真3](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo1.jpgphoto3.jpg)
+* [写真3](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo3.jpg)
 
 ピンアサイン
-* [写真4](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo1.jpgphoto4.jpg)
+* [写真4](https://github.com/yoggy/motor_driver_module_memo/blob/master/assets/photo4.jpg)
 
 モーターを駆動する場合は、プルアップしたりコンデンサを入れておいた方が良さげかも…？
 
